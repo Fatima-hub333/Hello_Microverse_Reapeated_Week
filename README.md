@@ -9,11 +9,6 @@
 
 - Html & CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://github.com/Fatima-hub333/Hello-World-Microverse-Project)
-
-
 <!-- ## Getting Started
 
 **This is an example of how you have to work with github workflow guidelines.**
