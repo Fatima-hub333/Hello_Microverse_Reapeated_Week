@@ -2,7 +2,7 @@
 
 # Hello-World-Microverse-Project
 
-> I have to create a repository on my Github account, after that I have to create a branch and pull request, commit change 7 after all these things I've to delet that branch. The purpose of all this process is to get me familiar with github workflow.
+> I have to create a repository on my Github account, after that I have to create a branch and pull request, commit change & after all these things I've to delet that branch. The purpose of all this process is to get me familiar with github workflow.
 
 
 ## Built With
